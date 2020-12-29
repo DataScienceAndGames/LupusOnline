@@ -7,4 +7,4 @@ Then run "lupus.py" and one file per player will be created, containing their ro
 This way whoever runs the program can send the role to the other players without
 looking at it.
 
-The name comes from on variant of the party game "Mafia".
+The name comes from a variant of the party game "Mafia".
